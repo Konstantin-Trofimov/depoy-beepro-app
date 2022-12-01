@@ -1,0 +1,29 @@
+<svg width="82" height="92" viewBox="0 0 82 92" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_bii_1380_2012)">
+<path d="M35.3367 2.26494C38.836 0.244588 43.1474 0.244587 46.6468 2.26494L76.0327 19.2309C79.5321 21.2513 81.6878 24.985 81.6878 29.0257V62.9577C81.6878 66.9984 79.5321 70.7322 76.0327 72.7525L46.6468 89.7185C43.1474 91.7389 38.8361 91.7389 35.3367 89.7185L5.95074 72.7525C2.45139 70.7322 0.2957 66.9984 0.2957 62.9577V29.0257C0.2957 24.985 2.45139 21.2513 5.95074 19.2309L35.3367 2.26494Z" fill="url(#paint0_linear_1380_2012)" fill-opacity="0.2"/>
+</g>
+<defs>
+<filter id="filter0_bii_1380_2012" x="-37.2975" y="-36.8434" width="156.579" height="165.671" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="18.7967"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_1380_2012"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_1380_2012" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="-1.25311" dy="1.25311"/>
+<feGaussianBlur stdDeviation="0.626557"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.6 0"/>
+<feBlend mode="normal" in2="shape" result="effect2_innerShadow_1380_2012"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="1.25311" dy="-1.25311"/>
+<feGaussianBlur stdDeviation="0.626557"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.297576 0 0 0 0 0.304403 0 0 0 0 0.299488 0 0 0 0.6 0"/>
+<feBlend mode="normal" in2="effect2_innerShadow_1380_2012" result="effect3_innerShadow_1380_2012"/>
+</filter>
+<linearGradient id="paint0_linear_1380_2012" x1="35.3398" y1="-18.9247" x2="36.1472" y2="74.5743" gradientUnits="userSpaceOnUse">
+<stop offset="0.140625" stop-color="#A2A6A3"/>
+<stop offset="0.786458" stop-color="#131313"/>
+</linearGradient>
+</defs>
+</svg>
